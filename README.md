@@ -1,1 +1,1 @@
-# .github
+# Brain Innovation, Maastricht, NL
