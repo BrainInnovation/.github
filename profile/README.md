@@ -6,4 +6,4 @@
 - Besides the software itself, we provide professional support valued by our customers for more than 20 years.
 - We are committed to and actively contribute to open science and open source.
 
-For more information, visit **[https://www.brain-innovation.com/](https://www.brain-innovation.com/)** & **[www.brainvoyager.com](https://www.brainvoyager.com)**.
+For more information, visit **[www.brain-innovation.com](https://www.brain-innovation.com)** & **[www.brainvoyager.com](https://www.brainvoyager.com)**.
